@@ -1,0 +1,2 @@
+Npm install en el proyecto de Front Eliminaciones
+para instalar node_modules
